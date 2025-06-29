@@ -17,7 +17,6 @@
 void app_main(void)
 {
     printf("Hello world!\n");
-    printf("牛逼卡拉屎");
     ESP_LOGI("main","测试logi");
 
     /* Print chip information */
